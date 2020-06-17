@@ -1,0 +1,9 @@
+G:\VSFolder\拉力机\bin\Debug\拉力机.exe.config
+G:\VSFolder\拉力机\bin\Debug\拉力机.exe
+G:\VSFolder\拉力机\bin\Debug\拉力机.pdb
+G:\VSFolder\拉力机\obj\Debug\拉力机.csprojAssemblyReference.cache
+G:\VSFolder\拉力机\obj\Debug\拉力机.Form1.resources
+G:\VSFolder\拉力机\obj\Debug\拉力机.Properties.Resources.resources
+G:\VSFolder\拉力机\obj\Debug\拉力机.csproj.GenerateResource.cache
+G:\VSFolder\拉力机\obj\Debug\拉力机.exe
+G:\VSFolder\拉力机\obj\Debug\拉力机.pdb
